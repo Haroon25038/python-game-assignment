@@ -1,7 +1,5 @@
 # python-game-assignment
 
-CSC-40072 Assessment: Simple Python Game
-
 # Simple Python Game
 # Overview
 
